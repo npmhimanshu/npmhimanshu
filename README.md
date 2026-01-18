@@ -1,59 +1,78 @@
-<h1 align="center"> Hello There 👋 </h1>
+<h1 align="center">Hey there 👋, I'm Himanshu Tiwari</h1>
+<h3 align="center">DevOps • Python • Cloud • Automation</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/dipto-chakrabarty/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin">
+  </a>
+  <a href="https://github.com/DiptoChakrabarty">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github">
+  </a>
+</p>
 
-* I am [Himanshu Tiwari](https://www.linkedin.com/in/dipto-chakrabarty/) :blush:	 . Currently I am a third year student from Abhinav College in Computer Science with specialization in Web development
-*  :satellite:
+---
 
-* I am a Devops and Python Developer Intern at @machaao :toolbox: , MicroSoft Student Partner and Projects Lead at CodeChefVIT :sparkles:.
+## 👨‍💻 About Me
 
-* I have done multiple projects ranging from the field of Devops , Backend to Cloud Computing and Automation :file_cabinet: .
+- 🎓 Third-year **Computer Science student** at *Abhinav College*  
+- 🔧 **DevOps & Python Developer Intern** at **Machaao**
+- 🌍 **Microsoft Student Partner**
+- 🚀 **Projects Lead** at **CodeChefVIT**
+- ☁️ Experience in **DevOps, Backend, Cloud & Automation**
+- 📚 Currently learning **Golang** and **Terraform**
+- 🤝 Open to **freelance work** & **open-source contributions**
 
-* I am currently brushing up my skills and plan to learn Golang and Terraform .
+🔥 **Check out my projects:**  
+[![Projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/DiptoChakrabarty/DiptoChakrabarty/blob/master/Projects.md)
 
-* I am willing to work on free-lance projects and love to  contribute to open source projects :bulb:
+---
 
-* :magnet: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/DiptoChakrabarty/DiptoChakrabarty/blob/master/Projects.md)
+## 🧰 Tech Stack
 
-* Connect with me on LinkeDin :fireworks: [LinkeDin Profile](https://www.linkedin.com/in//) :sparkler:
+<img align="right" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
+### 💻 Languages
+![C++](https://img.shields.io/badge/C++-333333?style=flat&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
+![PHP](https://img.shields.io/badge/PHP-333333?style=flat&logo=php)
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript)
 
-## Tech Stack :computer:
- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
- 
-- 💻 &nbsp;
-  ![C](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Php](https://img.shields.io/badge/-php-333333?style=flat&logo=php)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  <!-- ![PHP](https://img.shields.io/badge/-php-333333?style=flat&logo=PHP&logoColor=276DC3) -->
-- 🌐 &nbsp;
-  <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
-   ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=Tailwindcss) 
- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
- ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-   <!--  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular) -->
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
- 
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![GitLab](https://img.shields.io/badge/-Gitlab-333333?style=flat&logo=gitlab)
-<img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
- 
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Intelli J Idea](https://img.shields.io/badge/IntelliJ--333333?style=flat&logo=intellijidea)
-  ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm&logoColor=2C2255)
+### 🌐 Frontend & Backend
+![React](https://img.shields.io/badge/React-333333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-333333?style=flat&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=flat&logo=bootstrap)
 
-## My Activities :mailbox_with_mail:
+### 🛢 Databases
+![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb)
 
-| BLOGS :open_book: | WEBINARS :tv: |
-| :--- | :--- |
-| [How Jenkins can help build your code](https://medium.com/@diptochakrabarty/how-jenkins-can-actually-help-you-build-your-code-with-every-commit-5b9b1278f12f) | [Micorservices with Docker](https://www.youtube.com/watch?v=Xs93YLgYJis&t=1989s) |
-| [Kubernetes and Docker setup using Ansible](https://medium.com/codechef-vit/docker-and-kubernetes-setup-using-ansible-3d7e8f77fbfa) | [Guide to Linux](https://www.youtube.com/watch?v=t1HOY7Rp6xU) |
+### ⚙️ DevOps & Tools
+![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github)
+![GitLab](https://img.shields.io/badge/GitLab-333333?style=flat&logo=gitlab)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=flat&logo=vercel)
+
+### 🔧 Editors
+![VS Code](https://img.shields.io/badge/VS%20Code-333333?style=flat&logo=visual-studio-code)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-333333?style=flat&logo=intellijidea)
+![PyCharm](https://img.shields.io/badge/PyCharm-333333?style=flat&logo=pycharm)
+
+---
+
+## 📝 Blogs & 🎥 Webinars
+
+| Blogs | Webinars |
+|------|----------|
+| [How Jenkins Helps Build Your Code](https://medium.com/@diptochakrabarty/how-jenkins-can-actually-help-you-build-your-code-with-every-commit-5b9b1278f12f) | [Microservices with Docker](https://www.youtube.com/watch?v=Xs93YLgYJis&t=1989s) |
+| [Docker & Kubernetes with Ansible](https://medium.com/codechef-vit/docker-and-kubernetes-setup-using-ansible-3d7e8f77fbfa) | [Guide to Linux](https://www.youtube.com/watch?v=t1HOY7Rp6xU) |
 | [Automation with Ansible](https://medium.com/@diptochakrabarty/automation-with-ansible-2ae27fc94947) | [Ansible Automation](https://www.youtube.com/watch?v=r2sZ_aWU8h8) |
 
-:star: From [HimanshuTiwari](https://github.com/HimanshuTiwari/)
+---
+
+## 📬 Connect With Me
+
+- 💼 LinkedIn: [Himanshu Tiwari](https://www.linkedin.com/in/dipto-chakrabarty/)
+- 🧑‍💻 GitHub: [DiptoChakrabarty](https://github.com/DiptoChakrabarty)
+
+⭐️ *If you like my work, consider starring my repositories!*
